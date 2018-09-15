@@ -1,22 +1,19 @@
-官方中文：极地工坊
+英文全称：ExtremeCraftman
 
-官方英文全称：Extreme Craftman
-
-官方英语缩写：EC
-
-英文别名：KIDI
+英语缩写：EC
 
 成立日期：2018.6.1
 
-主要方面：Minecraft建筑制作及视频录制
+发起人：方修涵、文至行
 
-次要方面：王者荣耀战队[EC.M]
+主要方面：Minecraft建筑制作及视频录制
 
 性质：私人工作室
 
-现成员：[极地工坊落离][极地工坊散秋][极地工坊智障][极地工坊旋转]
+现成员：[极地工坊落离][极地工坊散秋][极地工坊邵可] [极地工坊子夏]
 
-成员个人网页：{散秋-SanFall.github.io}
+工作室网页：ExtremeCraftman.github.io
 
-工作室宣言：梦之安魂曲，极地不醒人
+工作室宣言：Playing an eternal requiem in a dream.
 
+           The gods in the pole have awakened.
