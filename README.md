@@ -15,5 +15,4 @@
 工作室网页：ExtremeCraftman.github.io
 
 工作室宣言：Playing an eternal requiem in a dream.
-
            The gods in the pole have awakened.
